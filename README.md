@@ -1,6 +1,6 @@
 ### Hi there 👋
-❄️ :snowflake:
-
+ :snowflake:
+ Projekt-Maze :chart_with_upwards_trend:
 
 
 <!--
