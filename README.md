@@ -3,6 +3,7 @@
  Projekt-Maze :chart_with_upwards_trend:
 
  https://kubakonieczny.github.io/
+ 
  https://kubakonieczny.github.io/KubaKonieczny/
 <!--
 **KubaKonieczny/KubaKonieczny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
