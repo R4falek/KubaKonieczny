@@ -1,10 +1,13 @@
 ### Hi there 👋
  :snowflake:
  Projekt-Maze :chart_with_upwards_trend:
-
+Strona:
  https://kubakonieczny.github.io/
  
  https://kubakonieczny.github.io/KubaKonieczny/
+ 
+ Fork:
+ https://github.com/KubaKonieczny/faceswap
 <!--
 **KubaKonieczny/KubaKonieczny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
